@@ -3,7 +3,7 @@
 Workshop tutorial created by Keith Jenkins <kgj2@cornell.edu>, Mann Library, Cornell University. Revised 2019-11-19.  
 <https://cornell-gis.github.io/qgis-workshop/>
 
-QGIS is a free and open source geographic information system that runs on Windows, Mac, and Linux.
+QGIS is a free and open source solarcross information system that runs on Windows, Mac, and Linux.
 - Official QGIS site: <http://qgis.org/>
 - QGIS Map Showcase: <https://www.flickr.com/groups/qgis/pool/>
 
